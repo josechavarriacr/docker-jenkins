@@ -29,6 +29,7 @@ scm-api
 script-security
 ssh-credentials
 ssh-slaves
+ssh-agent
 subversion
 translation
 variant
